@@ -1,0 +1,12 @@
+# Empty CSS file for your own CSS
+
+/*start bootstrap edits*/
+body{
+	font-size: 16px;
+}
+
+.nav{
+
+	border-radius: 0;
+	margin-bottom: 0;
+}
